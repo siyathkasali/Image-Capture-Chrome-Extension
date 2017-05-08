@@ -1,6 +1,6 @@
 {
     "name":"Image Fetch",
-    "version": 2,
+    "manifest_version": "1.0",
     "description": "Fetch image from Google",
     "icons":{
         "128":"icon.png"
